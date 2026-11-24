@@ -8,9 +8,9 @@ to /output/entry.txt. Python 3.13, standard library only.
 import os
 
 HAIKU = (
-    "Breakpoint holds its breath\n"
-    "the log line swears all is well\n"
-    "and the bug was me\n"
+    "Cursor blinks past three\n"
+    "the stack trace still swears I'm right\n"
+    "off by one, again\n"
 )
 
 
